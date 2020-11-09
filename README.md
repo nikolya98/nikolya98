@@ -10,5 +10,5 @@
 ![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Contacts
-[![Vk](https://img.shields.io/badge/-Vk-blue?style=for-the-badge&logo=Vk)](https://vk.com/id69080510)
-[![Telegram](https://img.shields.io/badge/-Vk-blue?style=for-the-badge&logo=Telegram)](https://t.me/big_brozzer)
+[![Vk](https://img.shields.io/badge/-Vk-blue?style=for-the-badge&logo=Vk&logoColor=white)](https://vk.com/id69080510)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/big_brozzer)
