@@ -13,8 +13,10 @@
 [![Vk](https://img.shields.io/badge/-Vk-030e20?style=for-the-badge&logo=Vk&logoColor=white)](https://vk.com/id69080510)
 [![Telegram](https://img.shields.io/badge/-Telegram-030e20?style=for-the-badge&logo=Telegram)](https://t.me/big_brozzer)
 
+
+### Stats
 [![nikolya98's github stats](https://github-readme-stats.vercel.app/api?username=nikolya98&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolya98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![nikolya98's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikolya98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![nikolya98's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikolya98)](https://github.com/anuraghazra/github-readme-stats)
