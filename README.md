@@ -10,3 +10,5 @@
 ![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Contacts
+[![Vk](https://vk.com/id69080510)](https://img.shields.io/badge/-Vk-blue?style=for-the-badge&logo=Vk)
+[![Telegram](https://t.me/big_brozzer)](https://img.shields.io/badge/-Vk-blue?style=for-the-badge&logo=Telegram)
